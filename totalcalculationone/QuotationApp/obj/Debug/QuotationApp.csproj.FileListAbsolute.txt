@@ -1,0 +1,324 @@
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Helpers.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Mvc.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Razor.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Helpers.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Mvc.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Razor.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\QuotationApp\bin\Entities.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.dll.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\QuotationApp.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csc.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\csi.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.AppContext.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Console.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\vbc.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Entities.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Helpers.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Mvc.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Optimization.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Razor.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\WebGrease.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Entities.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Helpers.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Mvc.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Optimization.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.Razor.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\QuotationApp.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Helpers.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Mvc.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Razor.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Entities.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Helpers.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Mvc.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.Razor.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\QuotationApp.dll.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\QuotationApp.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Helpers.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Mvc.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Razor.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Entities.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Helpers.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Mvc.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.Razor.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\QuotationApp\obj\Debug\QuotationApp.pdb

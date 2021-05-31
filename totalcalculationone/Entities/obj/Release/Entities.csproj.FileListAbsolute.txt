@@ -1,0 +1,6 @@
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\bin\Release\Entities.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\bin\Release\Entities.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\obj\Release\Entities.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\obj\Release\Entities.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\Entities\obj\Release\Entities.csprojAssemblyReference.cache

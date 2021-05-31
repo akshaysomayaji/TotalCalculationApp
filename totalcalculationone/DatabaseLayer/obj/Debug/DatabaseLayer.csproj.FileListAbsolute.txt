@@ -1,0 +1,50 @@
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\Entities.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\Entities.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\bin\Debug\Entities.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\bin\Debug\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\bin\Debug\Entities.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Debug\Entities.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Debug\Entities.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\bin\Debug\Entities.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\bin\Debug\Entities.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

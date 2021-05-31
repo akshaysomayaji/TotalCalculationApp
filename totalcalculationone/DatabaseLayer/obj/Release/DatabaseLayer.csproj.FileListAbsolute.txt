@@ -1,0 +1,10 @@
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Release\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Release\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Release\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Release\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Release\Entities.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\bin\Release\Entities.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Release\DatabaseLayer.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Release\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\DatabaseLayer\obj\Release\DatabaseLayer.pdb

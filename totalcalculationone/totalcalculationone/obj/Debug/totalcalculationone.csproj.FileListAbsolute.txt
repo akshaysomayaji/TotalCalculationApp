@@ -1,0 +1,654 @@
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
+C:\Users\manohar.s\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Entities.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\Source Code\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Entities.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Entities.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\manohar.s\Downloads\Quotation\Quotation\Quotation\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Entities.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\Source Code\totalcalculationone\totalcalculationone\bin\Scripts\jquery-1.4.1.js
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Scripts\jquery-1.4.1.js
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalReport3.rpt
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalReport3.cs
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportSource.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.Shared.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.Web.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Entities.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.SqlServer.Types.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\NAVCustomXMLPart.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Wordlayout+.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\EnvDTE.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\DocumentFormat.OpenXml.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\stdole.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.MSXML.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\DatabaseLayer.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll.config
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Entities.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\DocumentFormat.OpenXml.xml
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\RdlCompile.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\RdlCompile.compiled
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\manohar.s\Downloads\totalcalculationone\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Scripts\jquery-1.4.1.js
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalReport3.rpt
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalReport3.cs
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\totalcalculationone.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csc.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\csi.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.AppContext.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Console.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\vbc.rsp
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Entities.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\WebGrease.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\EnvDTE.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\DocumentFormat.OpenXml.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\stdole.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.MSXML.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\DatabaseLayer.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\DatabaseLayer.dll.config
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Entities.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\System.Web.Optimization.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Newtonsoft.Json.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Antlr3.Runtime.pdb
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\DocumentFormat.OpenXml.xml
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csprojAssemblyReference.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CoreCompileInputs.cache
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.csproj.CopyComplete
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.dll
+C:\Users\Akshay_Somayaji\source\repos\totalcalculationone\totalcalculationone\obj\Debug\totalcalculationone.pdb
